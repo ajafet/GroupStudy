@@ -9,30 +9,30 @@ Group Study is a website application that connects college students taking the s
 ### Functionality 
 Group Study consists of a login and register page followed by a page with a left dashboard menu. The dashboard menu consists of the options: All Sessions, Joined Sessions, My Sessions, Create Session and Log Out. 
 
-#### Login 
+#### Login Page
 ![Alt text](/Images/Login.png?raw=true)
 
-#### Register 
+#### Register Page
 ![Alt text](/Images/Register.png?raw=true)
 
-#### All Sessions
+#### All Sessions Option
 ![Alt text](/Images/AllSessions.png?raw=true)
 > Loads all the available sessions
 
-#### Joined Sessions 
+#### Joined Sessions Option
 ![Alt text](/Images/JoinedSessions.png?raw=true)
 > Loads all the sessions the current logged in user has joined
 
-#### My Sessions 
+#### My Sessions Option
 ![Alt text](/Images/MySessions.png?raw=true)
 > Loads all the sessions the current logged in user has created 
 
-#### Create Session 
+#### Create Session Option
 ![Alt text](/Images/CreateSessions.png?raw=true)
 > Loads a form where the current logged in user can fill out to create a new session 
 
 ### Installation 
-Currently the only method to access this application is by running the project in a Node.js environment. Follow these steps to install Group Study: 
+Currently the only method to access this application is by running the project in a Node.js environment. Follow these steps to use Group Study: 
 
 1. Install Node.js 
 2. Clone Group Study GitHub repository 
