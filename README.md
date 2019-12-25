@@ -12,9 +12,11 @@ Group Study consists of a login and register page followed by a page with a left
 #### Login Page
 ![Alt text](/Images/Login.png?raw=true)
 
+---
 #### Register Page
 ![Alt text](/Images/Register.png?raw=true)
 
+---
 #### All Sessions Option
 ![Alt text](/Images/AllSessions.png?raw=true)
 > Loads all the available sessions
